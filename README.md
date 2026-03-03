@@ -82,13 +82,6 @@ Chuyển đổi cơ số 2–36 chính xác, GUI Swing, xử lý số lớn → 
 <br/>
 
 ## 📊 GitHub Stats
-
-
-
-<div align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=dangtuann-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 ## 📫 Connect with me
