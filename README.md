@@ -23,7 +23,6 @@ I lead technical communities and create tools to help others understand and work
 | 🏆 **Academic Excellence** | Current GPA **3.28/4.0** |
 | 🥇 **Top Performer**      | Perfect **10/10** in Database Systems, Advanced Math, Computer Mathematics |
 | 👥 **Leadership**         | Founder & Leader of **DLP - Programming & Data Study Group**, mentoring 20+ members in SQL, Database Design & Data Analysis |
-| 🎯 **Current Goal**       | IELTS 7.0+ & **Database Analyst / Data Analyst Internship** at Tech Companies |
 
 <br/>
 
@@ -47,14 +46,12 @@ I lead technical communities and create tools to help others understand and work
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ERD](https://img.shields.io/badge/ERD-Data%20Modeling-blue?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
 
 **Data Processing & Visualization**
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
