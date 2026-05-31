@@ -22,7 +22,6 @@ I lead technical communities and create tools to help others understand and work
 |--------------------------|-------------|
 | 🏆 **Academic Excellence** | Current GPA **3.28/4.0** |
 | 🥇 **Top Performer**      | Perfect **10/10** in Database Systems, Advanced Math, Computer Mathematics |
-| 👥 **Leadership**         | Founder & Leader of **DLP - Programming & Data Study Group**, mentoring 20+ members in SQL, Database Design & Data Analysis |
 
 <br/>
 
